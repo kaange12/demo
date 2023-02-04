@@ -1,2 +1,2 @@
 # demo
-These codes are for personal practices only.
+These codes are for practices purpose only.
